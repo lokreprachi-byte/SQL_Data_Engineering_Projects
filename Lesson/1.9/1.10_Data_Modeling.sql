@@ -9,10 +9,3 @@ LIMIT 10;
 
 
 
-PRAGMA show_tables_expanded;
-
-DESCRIBE job_postings_fact;
-
-SELECT *
-FROM skills_job_dim
-LIMIT 5;
