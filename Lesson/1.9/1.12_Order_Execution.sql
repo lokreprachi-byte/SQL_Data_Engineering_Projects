@@ -19,10 +19,3 @@ ORDER BY postings_count DESC
 LIMIT 10;
 
 
-
-SELECT job_country, COUNT(*)
-FROM job_postings_fact
-GROUP BY job_country
-ORDER BY COUNT(*) DESC;
-
-
