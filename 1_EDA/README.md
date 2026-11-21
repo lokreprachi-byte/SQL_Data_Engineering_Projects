@@ -29,7 +29,7 @@ A SQL project analyzing the data engineer job market using real world job postin
 - **Regional market (Peru):** *Which high-demand skills pay the most for remote data engineers in Peru, and how do salary disclosures impact results?*
 
 #### This project analyzes a data warehouse built using a star schema design. The warehouse structure consists of:
-![Data Warehouse](../Images/1_2_Data_Warehouse.png)
+![Data Warehouse](../images/1_2_Data_Warehouse.png)
 
 - **Fact Table:** `job_postings_fact` – The central hub holding individual job listing records, including key details like titles, locations, salaries, and posting dates.
 - **Dimension Tables:**
