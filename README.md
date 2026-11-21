@@ -11,5 +11,5 @@ The following projects are a collection of SQL projects that I have worked on to
 ![Project overview](/images/1_1_project1_EDA.png)
 
 
-SQL- driven analysis of data engineer job market trends using advanced querying techniques
+SQL- driven analysis of data engineer job market trends using advanced querying techniques.
  
